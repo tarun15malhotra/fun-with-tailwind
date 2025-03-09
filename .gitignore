@@ -1,0 +1,17 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log
+yarn-debug.log
